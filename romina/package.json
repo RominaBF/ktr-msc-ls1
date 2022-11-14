@@ -12,6 +12,6 @@
   "dependencies": {
     "@prisma/client": "^3.13.0",
     "bcrypt": "^5.0.1",
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.5"
   }
 }
